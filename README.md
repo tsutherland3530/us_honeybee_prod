@@ -11,6 +11,6 @@ Setting Up the Program
 
 4) Create a new file on github in your repo titled data and then download the dataset US Honey Production 1995-2021 from    kaggle to the data file in the repo. Now open it injupyter notebook or if on Kaggle after downloading the file click on the edit function. 
 
-Make sure to save modified data to the data-clean file!
+Make sure to save modified data to the data-clean file.
 
 
