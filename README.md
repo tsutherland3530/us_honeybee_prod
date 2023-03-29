@@ -5,7 +5,7 @@ Setting Up the Program
 
 1) First step is to go on GitHub  and clone the repo us_honeybee_prod into a gitbash terminal.
 
-2) Next you want create a virtual environment in this directory using the command source venv/bin/activate.
+2) Next you want create a virtual environment in this directory using the command source venv/bin/activate or source venv/Scripts/activate.
 
 3) Once the virtual environment is activated you want to use the command pip install pandas 
 
@@ -29,7 +29,9 @@ Setting Up the Program
 
 13) The answer 151 should return in the terminal.
 
-14) Thank you for taking the time to check out this project that was done for a Data 1 Python course.  Thanks alot to Brenda Griffith too for providing the original raw data to start from.
+14) Make sure to run git pull then git push in the gitbash terminal to save the file to git hub.
+
+15) Thank you for taking the time to check out this project that was done for a Data 1 Python course.  Thanks alot to Brenda Griffith too for providing the original raw data to start from.
 
 Source
 Brenda Griffith
