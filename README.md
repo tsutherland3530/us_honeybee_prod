@@ -7,12 +7,21 @@ Setting Up the Program
 
 2) Next you want create a virtual environment in this directory using the command source venv/bin/activate.
 
-3) Once the virtual environment is activated you want to use the command pip install pandas and pip install matplot lib.
+3) Once the virtual environment is activated you want to use the command pip install pandas 
 
-4) Create a new file on github in your repo titled data and then download the dataset http://localhost:8888/edit/Bee%20Colony%20Census%202017%20by%20State.csv from kaggle to the data file in the repo. Now open it in jupyter notebook or if on Kaggle after downloading the file click on the edit function.
+4) Open the file from my github repo for us_honeybee_prod titled Bee Colony Census Data by County KY2.xlsx. Now open it in Excell or jupyter notebook.
 
-5) Highlite the CV(%) column and delete then save to a new file named honeybeekyclean.py.
-6) 
+5) Highlight the CV(%) column and delete then save to a new file named Bee Colony Census Data by County KY2clean.xlsx 
+
+6) Highlight and Delete the "Index" column then save to file Bee Colony Census Data by County KY2clean.xlsx
+
+7) Highlight and Delete the "State" ANSI column then save to file Bee Colony Census Data by County KY2clean.xlsx
+
+8) Highlight and Delete the "Period" column then save file to Bee Colony Census Data by County KY2clean.xlsx
+
+9) Highlight and Delete all of the "2,002" in the years column then replace the cells with "2002".  Then save the file to Bee Colony Census Data by County KY2clean.xlsx.
+
+10) Open the file Bee Colony Census Data by County KY2clean.xlsx now in Visual Studio Code and make sure to have the Excel Viewer extension downloaded if possible.  
 
 Make sure to save modified data to the data-clean file.
 
