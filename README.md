@@ -9,7 +9,7 @@ Setting Up the Program
 
 3) Once the virtual environment is activated you want to use the command pip install pandas 
 
-4) Open the file from my github repo for us_honeybee_prod titled Bee Colony Census Data by County KY2.xlsx. Now open it in Excell or jupyter notebook.
+4) Open the file from my github repo for us_honeybee_prod titled Bee Colony Census Data by County KY2.xlsx. Now open it in Excell or in jupyter notebook.
 
 5) If in Excel Highlight the CV(%) column and delete then save to a new file named Bee Colony Census Data by County KY2clean.xlsx If in Jupyter notebook type " Import pandas as pd" 
 
